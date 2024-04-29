@@ -1,4 +1,5 @@
 A simple python tool to make api calls
+
 #usage
 python request.py <request method> url
 
