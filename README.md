@@ -2,7 +2,7 @@ A simple python tool to make api calls
 
 #usage
 
-python request.py <request method> url
+python request.py "request-method" url
 
 #Usage in Linux
 
@@ -14,7 +14,7 @@ sudo mv request /usr/bin && chmod +x request
 
 #using it as an executable
 
-request <method> url
+request "request-method" url
 
 #Methods:
 
